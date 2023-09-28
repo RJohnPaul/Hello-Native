@@ -1,5 +1,5 @@
 # React Native "Hello, World!" App
-
+![Portfolio Banner](https://github.com/iamjohndevboy/My_Portfolio/blob/43a7eb1782f39f9f0e213ebc5c5dfd6e0eeb6cf2/Porfolio.png)
 Welcome to my "Hello, World!" React Native app built with Expo and styled with NativeWind.
 
 ## Description
