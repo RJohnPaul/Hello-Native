@@ -22,8 +22,10 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone https://github.com/your-username/your-react-native-hello-world.git
 2. Install project dependencies:
-3. ```bash
+
+- ```bash
    npm install
+  
 ## Usage
 
 1. Start the Expo development server:
